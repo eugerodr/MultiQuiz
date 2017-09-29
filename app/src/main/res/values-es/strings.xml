@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <string name="check">Comprueba</string>
+    <string name="question">Pregunta</string>
+    <string name="question_content">¿Cuál es la capital de Francia?</string>
+    <string name="correct">¡Muy bien!</string>
+    <string name="incorrect">Incorrecto...</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Acaba</string>
+    <string name="previous">Anterior</string>
+</resources>
